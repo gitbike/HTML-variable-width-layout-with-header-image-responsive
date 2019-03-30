@@ -17,7 +17,7 @@
 }
 
 .contents-wrapper {
-  width: 970px;
+  max-width: 970px;
   margin: 0 auto;
   padding-right: 10px;
   padding-left: 10px;
